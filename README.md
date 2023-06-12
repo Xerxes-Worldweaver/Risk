@@ -1,0 +1,1 @@
+This is a Discord bot that lets you play Risk.
